@@ -1,0 +1,35 @@
+commit 50b9459d518f350304dea2649a2184168bb17300
+Author: Victor Moreno <victormuliix@gmail.com>
+Date:   Mon Apr 13 19:15:39 2015 -0500
+
+    Agregue portafolio
+
+commit a6787edd5210e924e973be1eb0409bc2e69aeb63
+Author: Victor Moreno <victormuliix@gmail.com>
+Date:   Mon Apr 13 19:13:37 2015 -0500
+
+    Agregue presentacion
+
+commit 8164150b73aeb98af72383f7ea2a4dbad82210f1
+Author: Victor Moreno <victormuliix@gmail.com>
+Date:   Mon Apr 13 19:12:19 2015 -0500
+
+    Agregue redes sociales
+
+commit dbb71b944e76ff0d418f2fd3d5eaef21c7e3b53d
+Author: Victor Moreno <victormuliix@gmail.com>
+Date:   Mon Apr 13 19:06:29 2015 -0500
+
+    Perfil web escrito
+
+commit 3650fd729016561ada646c36ed68c8f4f75056cf
+Author: Victor Moreno <victormuliix@gmail.com>
+Date:   Mon Apr 13 19:02:35 2015 -0500
+
+    Subi mi foto de perfil y mi nombre
+
+commit d082cacefbd15395b8316f3a8417ce7ddf2b46c1
+Author: Victor Moreno <victormuliix@gmail.com>
+Date:   Mon Apr 13 18:53:55 2015 -0500
+
+    Esto es el primer commit, son los archivos base del protafolio
